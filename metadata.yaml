@@ -1,0 +1,45 @@
+_repo: British-Birds-in-their-Haunts_38077
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Foster, William
+    alias: Foster, W. (William)
+    birthdate: 1853
+    deathdate: 1924
+    gutenberg_agent_id: '44943'
+    url: http://www.gutenberg.org/2009/agents/44943
+covers:
+- cover_type: archival
+  image_path: 38077-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johns, C. A. (Charles Alexander)
+    alias: Johns, Charles Alexander
+    birthdate: 1811
+    deathdate: 1874
+    gutenberg_agent_id: '39235'
+    url: http://www.gutenberg.org/2009/agents/39235
+  editor:
+    agent_name: Owen, J. A. (Jean Allan)
+    alias: Owen, Jean Allan
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '42686'
+    url: http://www.gutenberg.org/2009/agents/42686
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Birds
+gutenberg_issued: '2011-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Great Britain'
+- !lcc 'QL'
+title: British Birds in Their Haunts
+url: http://www.gutenberg.org/ebooks/38077
